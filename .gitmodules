@@ -1,3 +1,7 @@
 [submodule "prebuilts"]
 	path = prebuilts
 	url = https://github.com/opencardev/prebuilts.git
+[submodule "stage2/07-chipsee-packages/drivers"]
+	path = stage2/07-chipsee-packages/drivers
+	url = https://github.com/Chipsee/industrial-pi
+	branch = 5.10.63-v7l+
